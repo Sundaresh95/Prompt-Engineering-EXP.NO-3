@@ -45,7 +45,7 @@ Write 2 different prompts for different use cases, refer the following Examples
 
 # OUTPUT:
 
-**1. Straightforward Prompts**
+# 1. Straightforward Prompts
 
 ## Scenario 1: Education
 
@@ -57,31 +57,31 @@ Write 2 different prompts for different use cases, refer the following Examples
 “Define Artificial Intelligence in simple terms.”
 “Mention four applications of blockchain technology.”
 
-**2. Tabular Format Prompting**
+# 2. Tabular Format Prompting
    
-Scenario 1: Programming
+## Scenario 1: Programming
 
 “Provide a table comparing Python, Java, and C++ based on speed, usage, and difficulty level.”
 “Create a table showing different database types and their applications.”
 
-Scenario 2: Healthcare
+## Scenario 2: Healthcare
 
 “Compare symptoms, causes, and prevention methods of diabetes and hypertension in a table.”
 “Provide a table listing vitamins, their sources, and benefits.”
 
-**3. Preceding Question Prompting**
+# 3. Preceding Question Prompting
 
-Scenario 1: Environment
+## Scenario 1: Environment
 
 “Why is water conservation important? Explain methods to reduce water wastage.”
 “How does air pollution affect human health? Describe preventive measures.”
 
-Scenario 2: Computer Science
+## Scenario 2: Computer Science
 
 “Why is cybersecurity necessary? Explain different types of cyber attacks.”
 “How does cloud computing help businesses? Describe its major advantages.”
 
-**4. Missing Word Prompting**
+# 4. Missing Word Prompting
 
 ## Scenario 1: General Knowledge
 
